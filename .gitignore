@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Roblox place files (the live game is a cloud place; these get big and binary)
+*.rbxl
+*.rbxlx
+*.rbxl.lock
+*.rbxlx.lock
+
+# Rojo build output
+*.rbxm
+*.rbxmx
+sourcemap.json
+
+# Editors
+.vscode/
+.idea/
