@@ -35,4 +35,8 @@ Everything lives in [`games/AvalancheRelay`](games/AvalancheRelay):
 - **Without Rojo:** run `python3 -m http.server 34999` inside `games/AvalancheRelay`, then run `tools/SyncScripts.luau` from Studio's command bar.
 - To rebuild the world, run `tools/BuildWorld.luau` the same way.
 
+## License
+
+The code is released under the [MIT License](LICENSE), so you're free to use, change and share it. The Roblox game itself (its saves, game pass and earnings) stays with the creator's Roblox account.
+
 Made with Roblox Studio and Claude.
